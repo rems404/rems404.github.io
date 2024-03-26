@@ -1,0 +1,74 @@
+.title {
+  font-family: Century Gothic;
+  font-style: italic;
+  font-size: 40px;
+  color: #62929E;
+  margin: 3px 20px 0px 20px;
+}
+
+.intro {
+  font-family: Garamond;
+  font-size: 10px;
+  font-style: italic;
+  margin: 3px 20px 0px 20px;
+}
+
+.subhead {
+  font-family: Century Gothic;
+  background-color: #393D3E;
+  color: white;
+  margin: 3px 5px;
+  padding: 3px 20px;
+}
+
+footer {
+  font-family: Garamond;
+  font-size: 11px;
+  font-style: italic;
+  text-align: right;
+}
+
+/*for index html*/
+#index_div {
+  margin: 3px 50px 0px 50px;
+}
+.btn {
+  font-family: Garamond;
+  font-size: 15px;
+  color: black;
+  text-align: center;
+  text-decoration: none;
+  border: 2px solid black;
+  border-radius: 90px;
+  margin-bottom: 3px;
+  padding: 5px 5px;
+  display: block;
+}
+
+.btn:active {
+  background-color: #62929E;
+  color: white;
+  border-style: dotted;
+}
+
+/*for aboutme html*/
+table, tr, td {
+  border-collapse: separate;
+}
+
+tr, td {
+  font-family: Garamond;
+  border-radius: 5px;
+  background-color: #bbbdbe;
+  padding: 5px 5px 5px 5px;
+}
+
+table {
+  width: 100%;
+}
+
+ul {
+  margin-top: 3px;
+  font-family: Garamond;
+  list-style-type: square;
+}
